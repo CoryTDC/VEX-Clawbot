@@ -12,7 +12,7 @@ OPEN-SOURCE BASIC CLAWBOT VEX 2.0 v1
  \ \_____\  \ \_____\  \ \_\ \_\  \/\_____\ 
   \/_____/   \/_____/   \/_/ /_/   \/_____/ 
                                             
-  coded by the CG Creations.
+  coded by CG Creations.
 --==============================================================================================================--  
   currentMovement currently does nothing, but instead of setting the motors based on signals of Channels 3 and 2
   of the JoyStick, we will set them on preset threshold and speed values.
